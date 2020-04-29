@@ -8,6 +8,5 @@ class Hello{
     System.out.println("i love you");
     
     
-    System.out.println("fine");
   }
 }
