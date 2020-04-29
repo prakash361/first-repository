@@ -5,7 +5,7 @@ class Hello{
     
     System.out.println("i hate you");
     
-    
+    System.out.println("i love you");
     
     
     System.out.println("fine");
