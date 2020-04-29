@@ -3,11 +3,10 @@ class Hello{
     System.out.println("how are you");
     
     
+    System.out.println("i hate you");
+    
+    System.out.println("i love you");
     
     
-    
-    
-    
-    System.out.println("fine");
   }
 }
